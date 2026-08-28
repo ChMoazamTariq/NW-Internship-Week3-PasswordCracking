@@ -63,7 +63,7 @@ $pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226d
 
 **Cracked Password:** `good-luck`
 
-**Screenshots:**
+**Screenshots attached:**
 | Description | File |
 |--------------|------|
 | JTR successfully recovering the PDF password | `screenshots/jtr_cracked_password.png` |
@@ -71,9 +71,7 @@ $pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226d
 
 **Flag Captured:** `nw{cybersecurity_flag_captured_2608}`
 
-> 📁 Add the `hash_1.txt` file and the two screenshots above to a `screenshots/` (and `hashes/`) folder in this repo so the links resolve correctly on GitHub.
-
----
+> **Screenshots attached:**
 
 ## 📚 Key Learnings
 - Understood how password hashes are extracted from PDF files before cracking.
