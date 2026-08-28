@@ -66,8 +66,11 @@ $pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226d
 **Screenshots attached:**
 | Description | File |
 |--------------|------|
-| JTR successfully recovering the PDF password | `screenshots/jtr_cracked_password.png` |
-| Flag capture confirmation from Network Walks | `screenshots/flag_captured.png` |
+*JTR successfully recovering the PDF password:*
+![JTR Cracked Password](screenshots/jtr_cracked_password.png)
+
+*Flag capture confirmation from Network Walks:*
+![Flag Captured](screenshots/flag_captured.png)
 
 **Flag Captured:** `nw{cybersecurity_flag_captured_2608}`
 
