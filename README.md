@@ -71,8 +71,6 @@ $pdf$4*4*128*-1028*1*16*ca7f72f11459cba469f1005a8765ed51*32*f32d8fa1bfbe2648226d
 
 **Flag Captured:** `nw{cybersecurity_flag_captured_2608}`
 
-> **Screenshots attached:**
-
 ## 📚 Key Learnings
 - Understood how password hashes are extracted from PDF files before cracking.
 - Learned the difference between **dictionary attacks** and **brute-force attacks**.
